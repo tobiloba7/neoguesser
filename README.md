@@ -1,2 +1,2 @@
 # neoguesser
-a game of guess, like chess.. but a little more boring
+a game of guess, like chess.. but a little bit more boring
